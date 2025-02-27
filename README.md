@@ -34,7 +34,7 @@ The main steps are as follows.<br>
 
 <h4 id="4">Ⅳ. Results</h4>
 
-As you can see below, after clicking icon "iTerm" on dock of MacOS, final step would let mouse move to terminal, write shell script command and press "Enter" to execute "omni_parser.sh". Then, the result would be shown on terminal.<br>
+As you can see below, after clicking icon "iTerm" on dock of MacOS, final step would let mouse move to the terminal, write shell script command and press "Enter" to execute "omni_parser.sh". Then, the result would be shown on the terminal.<br>
 
 ![avatar](./README_png/results.png)
 <br><br>
@@ -49,10 +49,11 @@ __The above provides the foundation to integrate OmniParser with PyAutoGUI for a
 
 <h4 id="5">Ⅴ. References</h4>
 
-[1] [microsoft/OmniParser
+[1] [microsoft/OmniParser (GitHub)
 ](<https://github.com/microsoft/OmniParser>) 
 
-[2] [microsoft/OmniParser-v2.0](<https://huggingface.co/microsoft/OmniParser-v2.0>)
+[2] [microsoft/OmniParser-v2.0 (Hugging Face
+)](<https://huggingface.co/microsoft/OmniParser-v2.0>)
 
 [3] [Ultralytics YOLO Docs](<https://docs.ultralytics.com/>)
 
